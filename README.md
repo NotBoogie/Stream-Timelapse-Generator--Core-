@@ -1,5 +1,7 @@
 # Stream Timelapse Generator
  Generates timelapse videos from recorded art footage
+ 
+ Download: [here](https://github.com/NotBoogie/Stream-Timelapse-Generator--Core-/releases)
 
 ## Usage
 >Make sure you have FFMpeg and FFprobe installed. See /Resources/FFMpeg Instructions.txt if you don't know how to do that.
