@@ -1,3 +1,5 @@
+*Idk why Github is rendering this without any breaklines. To see the correct formatting, just look at the raw file.
+
 # Stream Timelapse Generator
  Generates timelapse videos from recorded art footage
 
