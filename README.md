@@ -4,7 +4,7 @@
  Download: [here](https://github.com/NotBoogie/Stream-Timelapse-Generator--Core-/releases)
 
 ## Usage
->Make sure you have FFMpeg and FFprobe installed. See /Resources/FFMpeg Instructions.txt if you don't know how to do that.
+>Make sure you have FFMpeg and FFprobe installed to your path environment. See /Resources/FFMpeg Instructions.txt if you don't know how to do that.
 >
 >Drag your stream recordings + your desired music file (if you want one) into the exe
 
