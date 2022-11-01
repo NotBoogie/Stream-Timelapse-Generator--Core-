@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "mYApLaiOJ++nxsPypwnVR93JcBAHdaDZjeJjJaTwIXRk/3I0la1WQpXtrQMNGXM/NmjYMqTz5A0oQMHDhe4dSQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Jiji\\Documents\\_Projects__GitRepos\\Stream-Video-Merger\\Stream-Timelapse-Generator-(Core)\\Stream-Timelapse-Generator-(Core).csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jiji\\.nuget\\packages\\ffmpegcore\\4.8.0\\ffmpegcore.4.8.0.nupkg.sha512",
+    "C:\\Users\\Jiji\\.nuget\\packages\\instances\\2.0.0\\instances.2.0.0.nupkg.sha512",
+    "C:\\Users\\Jiji\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\Jiji\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "C:\\Users\\Jiji\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Jiji\\.nuget\\packages\\system.drawing.common\\5.0.2\\system.drawing.common.5.0.2.nupkg.sha512",
+    "C:\\Users\\Jiji\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\Jiji\\.nuget\\packages\\system.text.encodings.web\\6.0.0\\system.text.encodings.web.6.0.0.nupkg.sha512",
+    "C:\\Users\\Jiji\\.nuget\\packages\\system.text.json\\6.0.2\\system.text.json.6.0.2.nupkg.sha512",
+    "C:\\Users\\Jiji\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\5.0.17\\microsoft.netcore.app.runtime.win-x86.5.0.17.nupkg.sha512",
+    "C:\\Users\\Jiji\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\5.0.17\\microsoft.windowsdesktop.app.runtime.win-x86.5.0.17.nupkg.sha512",
+    "C:\\Users\\Jiji\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\5.0.17\\microsoft.aspnetcore.app.runtime.win-x86.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

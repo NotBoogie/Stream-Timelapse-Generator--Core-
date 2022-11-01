@@ -1,0 +1,6 @@
+﻿This explains it better than I could: https://www.wikihow.com/Install-FFmpeg-on-Windows
+
+Basically just 
+>Go to https://ffmpeg.org/download.html and get ffmpeg.exe and ffprobe.exe
+>Put into a folder somewhere (I use C:\Program Files (Path))
+>Add that folder to your path environment variable

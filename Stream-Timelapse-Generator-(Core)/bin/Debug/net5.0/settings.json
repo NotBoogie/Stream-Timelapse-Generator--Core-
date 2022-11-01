@@ -1,0 +1,21 @@
+{
+  "MergerVersion": 1,
+  "DeleteMasterMergedFile": true,
+  "CompressedFileVideoLength": "00:02:20",
+  "WriteSongTitleOverlay": true,
+  "PromptForSongTitleOverride": true,
+  "TextOverlaySize": 24,
+  "TextOverlayBoxOpacity": 0.5,
+  "TextOverlayBoxSize": 5,
+  "TextOverlayDisplaySeconds": 3,
+  "TextOverlayFadeSeconds": 1,
+  "TextOverlayPlacementX": 25,
+  "TextOverlayPlacementY": 25,
+  "FontFileLocationOverride": "",
+  "ExportResultAsMP4": true,
+  "ExportResultAsWEBM": false,
+  "PromptForBaseFilename": true,
+  "DefaulBaseFilename": "timelapse",
+  "PromptOnCompletion": true,
+  "TestingEnabled": true
+}

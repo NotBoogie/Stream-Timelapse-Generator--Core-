@@ -1,0 +1,16 @@
+C:\Users\Jiji\Documents\_Projects__GitRepos\Stream-Video-Merger\Stream-Timelapse-Generator-(Core)\bin\Release\net5.0\publish\Stream-Timelapse-Generator-(Core).exe
+C:\Users\Jiji\Documents\_Projects__GitRepos\Stream-Video-Merger\Stream-Timelapse-Generator-(Core)\bin\Release\net5.0\publish\Stream-Timelapse-Generator-(Core).dll
+C:\Users\Jiji\Documents\_Projects__GitRepos\Stream-Video-Merger\Stream-Timelapse-Generator-(Core)\bin\Release\net5.0\publish\Stream-Timelapse-Generator-(Core).deps.json
+C:\Users\Jiji\Documents\_Projects__GitRepos\Stream-Video-Merger\Stream-Timelapse-Generator-(Core)\bin\Release\net5.0\publish\Stream-Timelapse-Generator-(Core).runtimeconfig.json
+C:\Users\Jiji\Documents\_Projects__GitRepos\Stream-Video-Merger\Stream-Timelapse-Generator-(Core)\bin\Release\net5.0\publish\Stream-Timelapse-Generator-(Core).pdb
+C:\Users\Jiji\Documents\_Projects__GitRepos\Stream-Video-Merger\Stream-Timelapse-Generator-(Core)\bin\Release\net5.0\publish\FFMpegCore.dll
+C:\Users\Jiji\Documents\_Projects__GitRepos\Stream-Video-Merger\Stream-Timelapse-Generator-(Core)\bin\Release\net5.0\publish\Instances.dll
+C:\Users\Jiji\Documents\_Projects__GitRepos\Stream-Video-Merger\Stream-Timelapse-Generator-(Core)\bin\Release\net5.0\publish\Microsoft.Win32.SystemEvents.dll
+C:\Users\Jiji\Documents\_Projects__GitRepos\Stream-Video-Merger\Stream-Timelapse-Generator-(Core)\bin\Release\net5.0\publish\Newtonsoft.Json.dll
+C:\Users\Jiji\Documents\_Projects__GitRepos\Stream-Video-Merger\Stream-Timelapse-Generator-(Core)\bin\Release\net5.0\publish\System.Drawing.Common.dll
+C:\Users\Jiji\Documents\_Projects__GitRepos\Stream-Video-Merger\Stream-Timelapse-Generator-(Core)\bin\Release\net5.0\publish\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Jiji\Documents\_Projects__GitRepos\Stream-Video-Merger\Stream-Timelapse-Generator-(Core)\bin\Release\net5.0\publish\System.Text.Encodings.Web.dll
+C:\Users\Jiji\Documents\_Projects__GitRepos\Stream-Video-Merger\Stream-Timelapse-Generator-(Core)\bin\Release\net5.0\publish\System.Text.Json.dll
+C:\Users\Jiji\Documents\_Projects__GitRepos\Stream-Video-Merger\Stream-Timelapse-Generator-(Core)\bin\Release\net5.0\publish\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Jiji\Documents\_Projects__GitRepos\Stream-Video-Merger\Stream-Timelapse-Generator-(Core)\bin\Release\net5.0\publish\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Jiji\Documents\_Projects__GitRepos\Stream-Video-Merger\Stream-Timelapse-Generator-(Core)\bin\Release\net5.0\publish\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
