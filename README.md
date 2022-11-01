@@ -1,18 +1,17 @@
-*Idk why Github is rendering this without any breaklines. To see the correct formatting, just look at the raw file.
-
 # Stream Timelapse Generator
  Generates timelapse videos from recorded art footage
 
-To use:
+## Usage
 >Make sure you have FFMpeg and FFprobe installed. See /Resources/FFMpeg Instructions.txt if you don't know how to do that.
+>
 >Drag your stream recordings + your desired music file (if you want one) into the exe
 
 It will kick out a timelapse mp4 syncronized to whatever you have set in settings.js. Settings.js will be created with default values on the first execution if it doesn't exist in the folder.
 
 There are a couple sample files in /Resources for if you want to quick test any of the settings. If TestingEnabled is enabled in settings.js, it will automatically use those /Resources files to create a sample video if you just run the exe instead of dragging anything into it.
 
-Settings explanation:
-
+## Settings Explanation
+```
  //In case I ever need to update this
    public int MergerVersion = 1;
  //If true, remove the big merge file when finished, otherwise leave it
@@ -49,3 +48,4 @@ Settings explanation:
 
  //Whether or not to run with testing example mode enabled
    public bool TestingEnabled = true;
+```
