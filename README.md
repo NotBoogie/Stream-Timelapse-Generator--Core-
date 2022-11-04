@@ -50,4 +50,12 @@ There are a couple sample files in /Resources for if you want to quick test any 
 
  //Whether or not to run with testing example mode enabled
    public bool TestingEnabled = true;
+   
+ //Enable chunkmode
+ //Chunkmode will split the video out into even pieces and then sew those together, instead of compressing the entire video into a sped up timelapse
+   public bool ChunkMode = false;
+ //The length in seconds of each chunk
+   public int ChunkModeChunkSeconds = 5;
+ //Speed up each chunk by this amount (IE if set to 2, at 5 chunkseconds, each 5 second chunk will have 10 seconds of footage)
+   public double ChunkModeCompressedChunkSpeed = 2.0;
 ```
