@@ -1,5 +1,6 @@
 C:\Users\Jiji\Documents\_Projects__GitRepos\Stream-Timelapse-Generator-(Core)\Stream-Timelapse-Generator-(Core)\bin\Debug\net5.0\Resources\mergetestfile1.mp4
 C:\Users\Jiji\Documents\_Projects__GitRepos\Stream-Timelapse-Generator-(Core)\Stream-Timelapse-Generator-(Core)\bin\Debug\net5.0\Resources\Calibri.ttf
+C:\Users\Jiji\Documents\_Projects__GitRepos\Stream-Timelapse-Generator-(Core)\Stream-Timelapse-Generator-(Core)\bin\Debug\net5.0\Resources\FFMpeg Instructions.txt
 C:\Users\Jiji\Documents\_Projects__GitRepos\Stream-Timelapse-Generator-(Core)\Stream-Timelapse-Generator-(Core)\bin\Debug\net5.0\Resources\mergetestfile2.mp4
 C:\Users\Jiji\Documents\_Projects__GitRepos\Stream-Timelapse-Generator-(Core)\Stream-Timelapse-Generator-(Core)\bin\Debug\net5.0\Resources\mergetestfile3.mp4
 C:\Users\Jiji\Documents\_Projects__GitRepos\Stream-Timelapse-Generator-(Core)\Stream-Timelapse-Generator-(Core)\bin\Debug\net5.0\Resources\mergetestfile4.mp4
@@ -33,4 +34,3 @@ C:\Users\Jiji\Documents\_Projects__GitRepos\Stream-Timelapse-Generator-(Core)\St
 C:\Users\Jiji\Documents\_Projects__GitRepos\Stream-Timelapse-Generator-(Core)\Stream-Timelapse-Generator-(Core)\obj\Debug\net5.0\Stream-Timelapse-Generator-(Core).pdb
 C:\Users\Jiji\Documents\_Projects__GitRepos\Stream-Timelapse-Generator-(Core)\Stream-Timelapse-Generator-(Core)\obj\Debug\net5.0\Stream-Timelapse-Generator-(Core).genruntimeconfig.cache
 C:\Users\Jiji\Documents\_Projects__GitRepos\Stream-Timelapse-Generator-(Core)\Stream-Timelapse-Generator-(Core)\obj\Debug\net5.0\ref\Stream-Timelapse-Generator-(Core).dll
-C:\Users\Jiji\Documents\_Projects__GitRepos\Stream-Timelapse-Generator-(Core)\Stream-Timelapse-Generator-(Core)\bin\Debug\net5.0\Resources\FFMpeg Instructions.txt

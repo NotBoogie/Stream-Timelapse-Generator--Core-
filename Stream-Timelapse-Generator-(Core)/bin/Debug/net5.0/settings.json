@@ -1,5 +1,5 @@
 {
-  "MergerVersion": 1,
+  "MergerVersion": 2,
   "DeleteMasterMergedFile": true,
   "CompressedFileVideoLength": "00:02:20",
   "WriteSongTitleOverlay": true,
@@ -17,5 +17,8 @@
   "PromptForBaseFilename": true,
   "DefaulBaseFilename": "timelapse",
   "PromptOnCompletion": true,
-  "TestingEnabled": true
+  "TestingEnabled": true,
+  "ChunkMode": true,
+  "ChunkModeChunkSeconds": 5,
+  "ChunkModeCompressedChunkSpeed": 3.0
 }

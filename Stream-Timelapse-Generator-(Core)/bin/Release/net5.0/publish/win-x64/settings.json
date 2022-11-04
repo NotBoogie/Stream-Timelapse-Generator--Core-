@@ -17,5 +17,8 @@
   "PromptForBaseFilename": true,
   "DefaulBaseFilename": "timelapse",
   "PromptOnCompletion": true,
-  "TestingEnabled": true
+  "TestingEnabled": true,
+  "ChunkMode": false,
+  "ChunkModeChunkSeconds": 5,
+  "ChunkModeCompressedChunkSpeed": 3.0
 }
